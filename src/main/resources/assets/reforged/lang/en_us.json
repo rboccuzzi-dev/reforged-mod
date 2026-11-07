@@ -1,0 +1,35 @@
+{
+  "itemGroup.reforged": "Example Mod Tab",
+  "block.reforged.example_block": "Example Block",
+  "item.reforged.example_item": "Example Item",
+  "key.reforged.open_stats": "Open Stats",
+  "key.categories.reforged": "Reforged",
+    "screen.reforged.stats": "Stats",
+  "screen.reforged.stats.apply": "Apply",
+
+  "stat.reforged.points": "Points: %s",
+  "stat.reforged.level": "Level %s",
+  "stat.reforged.xp": "XP: %s/%s",
+  "stat.reforged.points_per_level": "+%s points per level (%s)",
+
+  "stat.reforged.health": "Health",
+  "stat.reforged.mana": "Mana",
+  "stat.reforged.strength": "Strength",
+  "stat.reforged.intelligence": "Intelligence",
+  "stat.reforged.agility": "Agility",
+  "stat.reforged.endurance": "Endurance",
+
+  "stat.reforged.health.desc": "Your life. When it reaches zero, you die.",
+  "stat.reforged.mana.desc": "Energy used to cast skills and spells.",
+  "stat.reforged.strength.desc": "Increases the damage of your physical attacks.",
+  "stat.reforged.intelligence.desc": "Increases the power of your magic and skills.",
+  "stat.reforged.agility.desc": "Increases your movement and attack speed.",
+  "stat.reforged.endurance.desc": "Reduces the damage you take and improves stamina.",
+
+  "rarity.reforged.common": "Common,",
+  "rarity.reforged.uncommon": "Uncommon",
+  "rarity.reforged.rare": "Rare",
+  "rarity.reforged.epic": "Epic",
+  "rarity.reforged.unique": "Unique",
+  "rarity.reforged.legendary": "Legendary"
+}

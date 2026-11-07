@@ -1,0 +1,50 @@
+/reforged rune spawn 2.5 1.5 600 "reforged:textures/entity/rune/placeholder_rune.png" 0088FF
+/reforged rune spawn 29.5 1.5 600 "reforged:textures/entity/rune/placeholder_rune.png" FF0078
+/reforged rune spawn 29.5 100 600 "reforged:textures/entity/rune/placeholder_rune.png" FF0078
+/reforged rune spawn 29.5 20 600 "reforged:textures/entity/rune/placeholder_rune.png" FF0078
+/reforged rune spawn 29.5 20 600 "reforged:textures/entity/rune/placeholder_rune.png" FF0000
+/reforged rune stack 5 1.5 FF0000
+/reforged rune stack 20 2.5 FF0000
+/reforged rune spawn 29.5 20 600 "reforged:textures/entity/rune/placeholder_rune.png" FF0000
+/reforged rune spawn 2 1 200 "reforged:textures/entity/rune/placeholder_rune.png" FF0000
+/reforged cast arcane_beam
+/reforged cast meteor_strike
+/setblock ~ ~ ~ minecraft:spawner
+/reforged cast arcane_beam
+/reforged cast meteor_strike
+/reforged cast arcane_beam
+/reforged cast meteor_strike
+/reforged cast arcane_beam
+/reforged cast meteor_strike
+/reforged cast arcane_beam
+/reforged cast meteor_strike
+/reforged cast arcane_beam
+/reforged cast meteor_strike
+/time set day
+/reforged cast arcane_beam
+/reforged cast fireball
+/summon minecraft:pig
+/reforged cast fireball
+/reforged class Dev set mage
+/reforged cast arcane_beam
+/reforged cast frost
+/summon minecraft:pig
+/reforged cast frost
+/summon minecraft:pig
+/reforged cast healing
+/reforged cast meteor
+/reforged cast arcane_beam
+/reforged cast fireball
+/reforged cast fireb
+/reforged cast fireball
+/reforged cast frost
+/reforged cast healing
+/reforged skill Dev unlock fireball
+/reforged skill Dev unlock frostnova
+/reforged skill Dev unlock frost_nova
+/reforged skill Dev unlock divine_lance}
+/reforged skill Dev unlock divine_lance
+/reforged skill Dev unlock healing_sanctuary
+/reforged skill Dev unlock firebaLL
+/reforged skill Dev unlock fireball
+/reforged title give Dev goridto
